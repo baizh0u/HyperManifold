@@ -28,13 +28,6 @@ reports/
 │       └── ETHUSDT.md
 └── ...
 ```
-
-**示例（可直接替换为你的仓库相对路径）**
-
-* CN · 市场总览（示例）：`reports/2025-10-19/CN/market_overview.md`
-* CN · BTC 报告（示例）：`reports/2025-10-19/CN/BTCUSDT.md`
-* EN · Market Overview（示例）：`reports/2025-10-19/EN/market_overview.md`
-
 > 说明：第 1 类《综合性研究报告》（宏观+加密宏观+主流币概况）每日免费更新；第 2 类《单币深度研究报告》目前 **BTC/ETH 免费**。
 
 ---
