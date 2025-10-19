@@ -3,6 +3,8 @@
 > Generated: 2025-10-19｜Data Coverage: Fed H.4.1 (Complete, 2025-10-16); Inflation & Employment (to 2025-08/09); Crypto Market (Daily, Stablecoins last 3 days)  
 > Methodology Notes: Macro DXY updated to 2025-10-10; Token K-lines to 2025-10-19. If the same metric uses inconsistent sources, priority follows “Macro → BTC → ETH → BNB → SOL.”  
 > Status Badges: `Tight Bias` `Fear Bias` `Healthy Volatility`
+>
+> Project URL: https://github.com/baizh0u/HyperManifold
 
 ---
 
@@ -69,7 +71,7 @@ Historical / Cycle Context
 | TGA | $852.0B (point) / $809.6B (avg) | 🔴 +$57.9B (point) / +$2.2B (avg) | Fiscal drain suppresses reserves & risk appetite |
 | Bank Reserves | $3,019.0B (avg) | 🟢 +$20.6B | MMF capacity up, medium-term positive for risk assets |
 
-### 1.3 Stablecoins & Bridging Variables (If Available)
+### 1.3 Stablecoins & Bridging Variables
 
 | Metric | Latest | 7d Change | Remarks |
 |---|---:|:---:|---|
@@ -275,7 +277,7 @@ Composite Score: 15/100 | 🟡 Range | Confidence 59%
 
 ---
 
-## 4. Short-/Medium-Term Scenarios (Verbatim Input)
+## 4. Short-/Medium-Term Scenarios 
 
 ### 4.1 Scenario Overview
 Baseline is “range-bound”: Macro MWI tight, NL7 point drain vs avg injection divergence; stables ample but weekly inflow below threshold. Token-level probabilities (from token reports): Range dominant (BTC 45%｜ETH 40%｜SOL 45%｜BNB 45%), up/down need tech + macro alignment.
@@ -363,7 +365,7 @@ Prob Note: Needs catalyst
 
 ---
 
-## 6. Versus Yesterday (If Provided)
+## 6. Versus Yesterday 
 
 ### 6.1 Core Changes Summary
 Data insufficient (most token reports first-time or lack yesterday baseline); macro stance unchanged: MWI = -1.8, stables net +$0.30B last 3d, DXY strong.
@@ -387,7 +389,7 @@ Data insufficient. Macro: point drain vs avg injection divergence unchanged; Mar
 
 ---
 
-## 7. Key Watchlist (Simplified)
+## 7. Key Watchlist 
 
 ### 7.1 Macro Inflection Signals
 - 🔴 Liquidity Turn: NL7 point flip neg→pos; TGA retreats  

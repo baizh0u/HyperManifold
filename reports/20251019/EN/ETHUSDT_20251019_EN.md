@@ -5,6 +5,8 @@
 **Data Window**: Weekly 32 (to 2025-10-13T00:00:00) ｜ Daily 60 (to 2025-10-19T00:00:00) ｜ 4H 100 (to 2025-10-19T12:00:00)  
 **last_closed (only closed candles)**: W=2025-10-06T00:00:00 ｜ D=2025-10-18T00:00:00 ｜ H4=2025-10-19T08:00:00
 
+Project URL: https://github.com/baizh0u/HyperManifold
+
 ---
 
 ## Core Conclusion
@@ -21,7 +23,7 @@ Daily ETH closed below the 20/50-day MAs and above the 200-day MA, with MACD bel
 
 ## Key Indicator Snapshot
 
-### Daily Snapshot (D, last_closed)
+### Daily Snapshot
 
 | Indicator                 | Value                                                        | Threshold/Range              | Status Judgment         |
 | -------------------       | ------------------------------------------------------------ | ---------------------------- | ----------------------- |
@@ -32,7 +34,7 @@ Daily ETH closed below the 20/50-day MAs and above the 200-day MA, with MACD bel
 | ADX(14) / +DI / -DI         | 22.70 / 15.93 / 29.71                                        | ADX>25 Trend                 | ⚪ Transitional          |
 | CMF(21)                    | 0.1070                                                       | >0 Inflow                    | 🟢 Inflow                |
 
-### 4H Snapshot (H4, last_closed)
+### 4H Snapshot 
 
 | Indicator               | Value                                                           | Threshold/Range  | Status Judgment      |
 | ----------------        | --------------------------------------------------------------- | ---------------- | -------------------- |
@@ -222,7 +224,7 @@ If 4H loses MA50 with MACD histogram continuously contracting below zero, possib
 
 ---
 
-## Watchlist (For Next Day/Next Session Review)
+## Watchlist 
 
 - **Volatility**: H4 nATR stay in 1–3% healthy range? (Current: 2.22% → ⚪ Healthy)  
 - **Momentum**: Daily RSI(14) leave 40–60 neutral? (Current: 41.50 → ⚪ Neutral); MACD zero/hist (Current: below zero / expanding → 🔴 Bearish)  
@@ -281,5 +283,8 @@ If 4H loses MA50 with MACD histogram continuously contracting below zero, possib
 
 This report is produced by HyperManifold based on multi-timeframe technicals and macro liquidity assessment, **FOR REFERENCE ONLY, NOT INVESTMENT ADVICE**.  
 Analysis Time: 2025-10-19T14:51:03.673000+00:00 ｜ Data Source: binance & ByBit ｜ Periods: Weekly / Daily / 4H
+
+Documents/Reports/Images/Graphics: **CC BY-NC-ND 4.0**
+**Non-commercial, no derivative works, attribution required**; commercial use without written permission is prohibited, and violators will be held legally liable.
 
 ---
