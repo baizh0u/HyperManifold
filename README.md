@@ -1,4 +1,4 @@
-# 🌍📊 Open-Source Daily Crypto Market Report (README)
+# 🌍📊 HyperManifold
 
 > Connecting TradFi ↔ Crypto, every single day — with data, logic, and a dash of fun.
 >  Decentralized research · Open discussion · A public knowledge base for everyone
@@ -35,9 +35,10 @@ reports/
 
 ------
 
-## 🤝 1. About
+## 🤝 1. About Maintainer and project
 
-This is a **fully open-source, daily-updated** crypto market research project.
+As an **AI Startup Founder** and long-term explorer of quantitative research, I’ve built—on my own time—an end-to-end pipeline from data → indicators → inference → reports, and I use a multi-agent system to automate the strategy into daily outputs. This repository is open-sourced and free to make analyses with consistent methodology and sufficient evidence more reproducible, discussable, and improvable—knowledge should be shared, not mythologized. (Nothing here constitutes investment advice; the documentation is licensed under CC BY-NC-ND 4.0.)
+
  We blend **global macro liquidity** (central-bank liquidity, dollar dynamics, fiscal pulse, etc.) with **crypto microstructure** (volume, flows, volatility, price structure) into a coherent, reviewable output — two flavors:
 
 1. **Market Overview** (free): a bird’s-eye flow from **macro → on-chain bridge → market structure**
