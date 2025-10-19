@@ -1,21 +1,21 @@
 # ETHUSDT Multi-Timeframe Market Analysis Report
 
 **Pair**: ETHUSDT ｜ **Exchange**: binance  
-**Analysis Time**: 2025-10-19T07:05:34.006000+00:00(UTC) ｜ **ASOF**: 2025-10-19T15:05:34(UTC+8)  
-**Data Window**: Weekly 32 (to 2025-10-13T00:00:00) ｜ Daily 60 (to 2025-10-19T00:00:00) ｜ 4H 100 (to 2025-10-19T04:00:00)  
-**last_closed (only closed candles)**: W=2025-10-06T00:00:00 ｜ D=2025-10-18T00:00:00 ｜ H4=2025-10-19T00:00:00
+**Analysis Time**: 2025-10-19T14:51:03.673000+00:00 (UTC) ｜ **ASOF**: 2025-10-19 22:51:03 (UTC+8)  
+**Data Window**: Weekly 32 (to 2025-10-13T00:00:00) ｜ Daily 60 (to 2025-10-19T00:00:00) ｜ 4H 100 (to 2025-10-19T12:00:00)  
+**last_closed (only closed candles)**: W=2025-10-06T00:00:00 ｜ D=2025-10-18T00:00:00 ｜ H4=2025-10-19T08:00:00
 
 ---
 
-## Key Conclusions
+## Core Conclusion
 
-* **Market Condition**: ⚪ Sideways
-* **Market Bias (For Reference Only)**: ⚪ Range-bound Waiting for Confirmation
-* **Confidence**: 60% ｜ **Composite Score**: -14/100
-* **Status Badges**: ⚪ Weekly MA Bullish Structure ｜ 🔴 Daily Momentum Weakening ｜ ⚪ Volatility in Healthy Range
+* **Market Condition**: ⚪ Range-bound
+* **Market Bias (For Reference Only)**: ⚪ Waiting for Range Confirmation
+* **Confidence Level**: 72% ｜ **Composite Score**: -16/100
+* **Status Badges**: 🔴 Weak Momentum 🔴 Insufficient Trend Strength ⚪ Neutral Capital Flow
 
-**One-Sentence Summary**  
-Currently, ETH is in a sideways-to-weak pattern: the daily closed below the 20/50-day MAs but remains above the 200-day MA, MACD is below the zero line with contracting histogram, RSI(14) near the lower edge of the neutral zone; the weekly maintains a MA20>MA50>MA200 bullish structure (unclosed), ADX>25 indicates the trend is still structured; on 4H, price has returned above KC midline with nATR≈2.22% in healthy volatility. Macro-wise, MWI=-2.7 (tight bias), NL7 at -$44.32B with declining reserves, stablecoin SMR>8% but CUE significantly negative, transmission efficiency rating low (-5/10): macro tightening continues to pressure the market, daily momentum and capital need to improve synchronously.
+**One Sentence Summary**  
+Daily ETH closed below the 20/50-day MAs and above the 200-day MA, with MACD below the zero line and expanding histogram; RSI(14) sits in the lower neutral band; trend strength (ADX≈22.7) is below a clear trend threshold. On the 4H timeframe, price rebounded above the KC midline but remains below the 50/200 MAs, indicating a weak rebound structure. Weekly remains above major MAs but momentum is weakening. Macro MWI=-1.8 (tight), NL7 mean +25.25B contrasted with spot -44.32B divergence; slow net inflow in stablecoins and SMR>8% provide some cushion, but in the short term more sensitive to spot liquidity drain; transmission efficiency is mildly positive.
 
 ---
 
@@ -23,264 +23,263 @@ Currently, ETH is in a sideways-to-weak pattern: the daily closed below the 20/5
 
 ### Daily Snapshot (D, last_closed)
 
-| Indicator | Value | Threshold/Range | Status Judgment |
-| --- | --- | --- | --- |
-| Close Price | 3889.21 | — | — |
-| ΔMA20/50/200(%) | -7.87% / -9.58% / +22.31% | MA deviation (>0 above) | 🔴 Weak (below 20/50-day, above 200-day MA) |
-| MACD Histogram / Zero Line / Histogram Status | -44.08 / Below zero / Contracting | Below zero + contracting | 🔴 Bearish bias |
-| RSI(14) | 41.50 | 40–60 neutral zone | ⚪ Neutral-weak |
-| ADX(14) / +DI / -DI | 22.70 / 15.93 / 29.71 | ADX>25 trend | 🔴 Transitioning weaker (-DI dominant) |
-| CMF(21) | 0.107 | >0 inflow | 🟢 Inflow |
+| Indicator                 | Value                                                        | Threshold/Range              | Status Judgment         |
+| -------------------       | ------------------------------------------------------------ | ---------------------------- | ----------------------- |
+| Close Price                | 3889.210                                                     | —                            | —                       |
+| ΔMA20/50/200 (%)           | -7.87 / -9.58 / +22.31                                       | MA deviation (>0 above)      | 🔴 Weak/Weak/🟢 Strong   |
+| MACD Hist / Zero Line / State | -44.0822 / Below Zero / Expanding                         | Below zero + expanding       | 🔴 Bearish               |
+| RSI(14)                    | 41.50                                                        | 40–60 Neutral                | ⚪ Neutral               |
+| ADX(14) / +DI / -DI         | 22.70 / 15.93 / 29.71                                        | ADX>25 Trend                 | ⚪ Transitional          |
+| CMF(21)                    | 0.1070                                                       | >0 Inflow                    | 🟢 Inflow                |
 
 ### 4H Snapshot (H4, last_closed)
 
-| Indicator | Value | Threshold/Range | Status Judgment |
-| --- | --- | --- | --- |
-| Close Price | 3906.29 | — | — |
-| ΔMA20/50/200(%) | +0.33% / -1.31% / -7.94% | MA deviation | ⚪ Neutral (near MA20, below MA50/200) |
-| OBV vs EMA9 | -11,097,351 / -11,172,177 (above) | Cross up/break down/above-below | 🟢 Inflow (OBV above EMA9) |
-| nATR(%) | 2.22% | 1–3 healthy band | ⚪ Healthy |
-| KC Zone | Midline to upper band | Outside/midline etc. | ⚪ Reverted (trading above midline) |
+| Indicator               | Value                                                           | Threshold/Range  | Status Judgment      |
+| ----------------        | --------------------------------------------------------------- | ---------------- | -------------------- |
+| Close Price              | 3923.820                                                        | —                | —                    |
+| ΔMA20/50/200 (%)         | +1.02 / -0.96 / -7.39                                           | MA deviation     | 🟢 Strong/🔴 Weak/🔴 Weak |
+| OBV vs EMA9              | -10,959,066 / -11,068,385 (Above)                               | Cross/Break/High | 🟢 Inflow             |
+| nATR (%)                 | 2.22                                                            | 1–3 Healthy      | ⚪ Healthy            |
+| KC Zone                  | Midline to Upper Band                                           | Outside/Midline  | ⚪ Neutral            |
 
-### Data Quality Note
-* Open candles: W=Y ｜ D=Y ｜ H4=Y  
-* Missing fields: None  
-* Skip rules: None
+### Data Quality Notes
+* Open Candles: W=Y ｜ D=Y ｜ H4=Y  
+* Missing Fields: None  
+* Skip Rules: None
 
 ---
 
-## Dimensional Rating Dashboard
+## Dimension Level Dashboard
 
-* Macro   [-3/12]  🔴 Tight Macro Bias  ★★☆☆☆  ███▎▁▁▁▁
-* Structure   [-2/13]  🔴 Structural Weakness  ★★☆☆☆  ██▎▁▁▁▁▁
-* MAs   [+4/20]  🟢 MA Neutral-Bullish Bias  ★★★☆☆  ████▁▁▁▁
-* Momentum   [-5/18]  🔴 Momentum Weakening  ★★☆☆☆  ███▁▁▁▁▁
-* Funds   [-1/15]  🔴 Slightly Weak Neutral Funds  ★★☆☆☆  ██▊▁▁▁▁▁
-* Trend   [-2/10]  🔴 Transitional Trend  ★★☆☆☆  ██▁▁▁▁▁▁
-* Volatility   [+1/5]   🟢 Healthy Volatility  ★★☆☆☆  █▌▁▁▁▁▁▁▁
-* Confluence   [-2/7]   🔴 Multi-Timeframe Misalignment  ★★☆☆☆  █▎▁▁▁▁▁▁▁
+* Macro   [-2/12]  ⚪ Tight Macro  ★★☆☆☆  ■■□□□□□□□□
+* Structure   [-3/13]  🔴 Bearish Structure  ★★☆☆☆  ■■■□□□□□□□
+* Moving Averages   [-2/20]  🔴 Weak MA  ★★☆☆☆  ■■□□□□□□□□
+* Momentum   [-8/18]  🔴 Weakening Momentum  ★★★☆☆  ■■■■■□□□□□
+* Capital   [0/15]   ⚪ Neutral Funds  ★★☆☆☆  ■□□□□□□□□□
+* Trend   [-3/10]  🔴 Lack of Trend  ★★☆☆☆  ■■■□□□□□□□
+* Volatility   [1/5]    🟢 Healthy Volatility  ★★☆☆☆  ■■□□□□□□□□
+* Multi-Timeframe Sync   [-2/7]   🔴 Non-Aligning Cycles  ★★☆☆☆  ■■□□□□□□□
 
-**Composite**  [-14/100]  ⚪ Sideways  ★★★☆☆  █████▁▁▁
+**Composite**  [-16/100]  ⚪ Range-bound  ★★☆☆☆  ■■■■□□□□□□
 
 ---
 
 ## Macro Environment Analysis
 
-**Macro Transmission – One-Sentence Summary**  
-MWI=-2.7 (tight bias) corresponds to macro liquidity score of -3; NL7=-$44.32B (7-day net withdrawal) with structural rise in TGA (fiscal draining reserves), small drop in RRP (marginal injection) but substantial drop in bank reserves; on stablecoin side, SMR=8.21% (ample) but CUE is significantly negative (poor capital use efficiency), weekly net increase insufficient (+$0.16B in past 3 days), transmission from macro → stablecoin → market is weak, short-term risk appetite pressured.
+**Macro Transmission - One Sentence Summary**  
+MWI=-1.8 (tight), NL7 mean positive (+25.25B) but weekend spot significantly negative (-44.32B); stablecoins up slightly in the past 3 days (≈+$0.30B, weekly ≈+$0.7B), SMR≈8.14% ample, CUE≈18.3% efficient. Bridge quality is good but short-term is sensitive to spot liquidity drain. Transmission efficiency mildly positive. Overall macro confidence impact is neutral to slightly positive.
 
 ### Macro Liquidity Layer (Level & Structure)
 
-| Indicator | Current Value | 7-Day Change | Structure/Definition Note | Impact Interpretation (Brief) |
-| --- | --- | --- | --- | --- |
-| MWI | -2.7/10 | — | Tight bias | 🔴 Overall tightening, suppressing risk appetite |
-| NL7($B) | -44.321 | — | Pulse negative | 🔴 Net capital withdrawal, suppressing risk assets |
-| RRP($B) | 347.901 | -7.938 | Money market returning (injection) | ⚪ Marginally positive but weak |
-| TGA($B) | 851.952 | +57.898 | Strong fiscal absorption (withdrawal) | 🔴 Draining reserves, pressuring market |
-| Bank Reserves($B) | 2,988.202 | -45.653 | Buffer declining | 🔴 Bank risk appetite cooling |
-| Central Bank Policy Bias | Hawkish/Neutral | — | Sticky inflation, limited rate-cut space | 🔴 Limited easing expectations |
+| Indicator           | Current Value                   | 7d Change | Structure/Notes         | Impact Interpretation       |
+| ------------------- | -------------------------------- | --------- | ----------------------- | --------------------------- |
+| MWI                  | -1.8                           | —         | Tight                   | Slight suppression of risk appetite |
+| NL7 ($B)             | Mean +25.25 / Spot -44.32       | —         | Pulse vs mean divergence| Spot drain suppress short-term |
+| RRP ($B)             | 347.9                          | -7.9      | Return/Injection        | Money fund return; short-end relief |
+| TGA ($B)             | 852.0                          | +57.9     | Drain                   | Significant weekend treasury drain |
+| Bank Reserves ($B)   | 3019.0                         | +20.6     | Injection               | Bank system reserves rising |
+| CB Policy Bias        | Hawkish/Tight                  | —         | Core inflation sticky   | Strong USD and high real rates suppress |
 
-### Transmission Bridge Layer (Efficiency & Synchronization)
+### Transmission Bridge Layer (Efficiency & Sync)
 
-| Indicator | Current Value | Judgment Threshold/Definition | Conclusion | Confidence Impact |
-| --- | --- | --- | --- | --- |
-| Stablecoin Supply SLP(7d,$B) | +0.162 (past 3 days) | >+1B moderate / <+0.5B weak/negative | ⚪ Weak inflow | ⚪ 0% (weekly insufficient) |
-| Stablecoin Buffer SMR(%) | 8.21 | ≥8 ample / 6–8 normal / <6 tight | 🟢 Ample | ⚪ 0% |
-| Capital Utilization CUE(%) | Significantly negative | >+5 efficient / ≈0 neutral / <-5 negative | 🔴 Negative efficiency | ⚪ 0% |
-| Synchronization (NL7 vs SLP) | Negative vs weak positive | Smooth/decoupled/double-negative/reverse | 🔴 Decoupled/reverse weak | ⚪ 0% |
-| Transmission Lag | 2–4 weeks | Empirical measure | ⚪ Normal lag | ⚪ 0% |
+| Indicator                   | Current Value          | Threshold/Definition           | Conclusion | Confidence Impact |
+| --------------------------- | ---------------------- | ------------------------------- | ---------- | ----------------- |
+| Stablecoin Supply SLP(7d,$B)| ≈+0.7 (last 3 days est.)| >+1B Mild / <+0.5B Weak/Negative| Weak Inflow| +0%               |
+| Stablecoin Buffer SMR (%)   | 8.14                   | ≥8 Ample / 6–8 Normal / <6 Tight| Ample      | +0%               |
+| Capital Utilization CUE (%) | ≈18.3                  | >+5 Efficient / ≈0 Neutral / <-5 Negative| Efficient| +0%               |
+| Sync (NL7 vs SLP)            | Spot Negative vs SLP Positive| Slightly Decoupled/Lagging | Decoupled Lag | -2 points (transmission score) |
+| Transmission Lag             | 1–2 weeks             | Empirical                       | Normal     | +0%               |
 
 ### External Constraints & Threshold Monitoring
 
-| Indicator | Current Value | Key Threshold/Level | Status | Remarks |  |  |
-| ---- | --- | ------------------- | ---------- | ------------ | -------- | ---------- |
-| DXY | 121.52 | High strong (>MA50) | 🔴 Pressure | USD strength, cross-asset headwind |  |  |
-| Watch Threshold | — | SLP7d > +$1B, NL7 > -$20B/7d etc. | ⚪ Not Met | Monitor fiscal injection and RRP path |  |  |
+| Indicator | Current Value | Key Threshold/Level               | Status        | Notes                             |          |            |
+| --------- | ------------- | ---------------------------------- | ------------- | --------------------------------- | -------- | ---------- |
+| DXY       | 121.52        | 119/120 or medium-term MAs         | 🔴 Pressure   | Strong USD suppresses cross-border risk appetite |          |            |
+| Watch Threshold | —   | SLP7d > +$1B; NL7 mean > +$20B/7d     | ⚪ Not Reached| Monitor fiscal cash and RRP trend |          |            |
 
 ---
 
 ## Technical Dimension Scoring
-Current weekly/daily/4H show “weekly bullish bias, daily weak, 4H recovering” misalignment: weekly holds bullish MA structure with ADX>25 trend background (but unclosed weekly candle, down-weighted scoring); daily below 20/50-day MA, MACD below zero with contracting histogram, RSI(14) near lower neutral bound, -DI dominant shows short-term pressure persists; 4H above KC midline, OBV above EMA9, MACD histogram turned positive, nATR≈2.22% in healthy band, short-term technical rebound possible but not yet aligned with daily.
+ETH weekly still above major MAs but momentum weakening; daily above 200-day MA yet below 20/50-day MAs with declining slope, MACD below zero and expanding histogram, RSI(14) in lower neutral band, trend strength below threshold; 4H back above KC midline, OBV above its 9-period MA, positive capital flow, but still below 50/200 MAs—rebound needs confirmation.
 
-| Dimension | Score | Key Evidence (threshold-based, may include values) |
-| --- | --- | --- |
-| Price Structure & Pattern | -2/13 | Daily below 20/50-day MA (ΔMA20=-7.87% / ΔMA50=-9.58%), above 200-day MA; last 20 candles show no effective engulfing/morning star reversal → -2 |
-| MA System | +4/20 | Weekly MA20>MA50>MA200 with positive MA20 slope (unclosed, down-weighted); daily above 200-day MA → +4 |
-| Momentum Indicators | -5/18 | Daily MACD below zero, histogram contracting (-44.08 vs prev -47.13); RSI(14)=41.50 near lower neutral → -5 |
-| Capital Flow | -1/15 | Daily price up but volume ratio 0.41 (no volume expansion), OBV below EMA9, CMF(21)=0.107 (net inflow) → -1 |
-| Trend Strength | -2/10 | Daily ADX=22.70 (transition zone), -DI>+DI (29.71>15.93) → -2 |
-| Volatility & Position | +1/5 | 4H nATR≈2.22% in healthy band, above KC midline → +1 |
-| Multi-Timeframe Confluence | -2/7 | Weekly bullish vs daily weak, 4H not yet back above its 200MA → -2 |
+| Dimension            | Score  | Key Evidence (Threshold-based, may include specific values)                  |
+| -------------------- | ------ | ------------------------------------------------------------------------------ |
+| Price Structure      | -3/13  | Daily closed below KC midline (KC midline=4131.17, close=3889.21) and below 20/50-day MAs → Bearish structure |
+| MA System            | -2/20  | Daily MA20<MA50, price above 200-day MA but short-term MA20 slope is negative (last 7 periods) → Weak MAs |
+| Momentum Indicators  | -8/18  | MACD below zero and expanding (hist=-44.08), RSI(14)=41.5 lower neutral → Weak momentum |
+| Capital Flow         | 0/15   | Daily CMF(21)=+0.107>+0.05 but dropping last 2 days, OBV below 9-period MA → Neutral |
+| Trend Strength       | -3/10  | ADX(14)=22.7<25, -DI>+DI matching short-term downward → Lack of trend |
+| Volatility & Position| +1/5   | H4 nATR≈2.22% within healthy band, price between KC midline and upper band → Neutral to slightly bullish |
+| Multi-Timeframe Sync | -2/7   | Daily weak while 4H rebound still below local 50/200 MAs → Non-aligned cycles |
 
 **Dimension Analysis**
 
-* Price Structure & Pattern: Daily shows pullback “above 200-day MA but below 20/50-day MA,” no clear classic reversal in past 20 sessions, consolidation likely.
-* MA System: Weekly MAs remain bullish (down-weighted); daily not bullish aligned but still above 200-day MA, long-term structure intact.
-* Momentum Indicators: MACD below zero with negative histogram albeit contracting, RSI near lower neutral, momentum not in bull territory.
-* Capital Flow: Volume not expanding, OBV below EMA9 but no new low; CMF positive showing net inflow, but inefficient conversion.
-* Trend Strength: ADX at 20–25 transition zone, -DI dominates, trend signal weak—watch for +DI recovery.
-* Volatility & Position: 4H volatility within healthy band, price above KC midline—technical reversion bias.
-* Multi-Timeframe Confluence: Weekly bullish background but daily momentum misaligned; 4H recovery but not above timeframe’s 200MA—confluence lacking.
+* Price Structure: Daily candles below KC midline for multiple days—short-term structure weak; last 20 candles lack a classic reversal, still oscillating within range.
+* MA System: MA20<MA50 with MA20 slope turning negative; although above 200-day MA, short-term MA pressure is apparent.
+* Momentum Indicators: MACD below zero with expanding histogram shows downward momentum remains; RSI(14) in neutral band but toward lower side—momentum lacking.
+* Capital Flow: CMF positive but weakening, daily OBV below its 9-period MA—funds less convincing.
+* Trend Strength: ADX below 25, +DI/-DI suggests weak or transitional trend—no “organized” trend signal yet.
+* Volatility & Position: H4 volatility in healthy range with price above KC midline—short-term repair attempt after midline return.
+* Multi-Timeframe Sync: Weekly mildly bullish but momentum weakened, daily weak, 4H rebound still capped by critical MAs—no bullish alignment.
 
-**Conflict Resolution**: When weekly bullish structure contradicts daily weak momentum, daily is execution priority; if 4H sustains above its MA50/MA20 with volume, alignment with daily will improve.
+**Conflict Explanation**: Daily weakness vs 4H rebound—execution should be daily-led, with 4H as timing reference only; failure to climb above 4H 50/200 MAs limits rebound confirmation.
 
 ---
 
-## Price Levels & Relative Distances (Based on last_closed Data)
+## Price Level & Relative Distance (Based on last_closed)
 
 - **Close vs MA20/50/200 (D, last_closed)**:  
-  Price below 20/50-day MA, above 200-day MA; deviations: -7.87% / -9.58% / +22.31%.
+  Above 200-day MA, below 20/50-day MAs; deviations: -7.87% / -9.58% / +22.31%.
 - **KC Position (H4, last_closed)**:  
-  Midline to upper band (Interpretation: outside band = over-extension; near midline = increased reversion probability).
-- **Support/Resistance Heatmap (Daily Focus)**:  
-  S1 3745.40 (4H KC lower band, 3.70% away) ｜ S2 3592.62 (Daily KC lower band, 7.63%) ｜ S3 3179.78 (Daily 200-day MA, 18.26%)  
-  R1 3903.88 (4H KC midline, 0.37%) ｜ R2 4131.17 (Daily KC midline, 6.22%) ｜ R3 4221.40 (Daily 20-day MA, 8.57%)
+  Midline to upper band (Interpretation: Outside = overextended; near midline = higher reversion probability).
+- **Support/Resistance Heatmap (Daily focus)**:  
+  S1=3819 (recent daily swing low) ~1.80% from close ｜ S2=3592 (daily KC lower band) ~7.63% ｜ S3=3179 (200-day MA) ~18.25%;  
+  R1=4131 (daily KC midline) ~6.22% ｜ R2=4221 (20-day MA) ~8.54% ｜ R3=4301 (50-day MA) ~10.59%.
 
 ---
 
 ## Candlestick Pattern Recognition
-**Scan Range**: D = last 60 candles, H4 = last 100 closed candles  
-No recent classic pattern detected (neutral structure).
+**Scan Range**: D = last 60 closed candles, H4 = last 100 closed candles. If no valid pattern: “No typical pattern formed (neutral structure)”.
 
-### Daily Pattern (D, latest)
-| Latest Valid Pattern | Date | Freshness | Direction | Note |
-| --- | --- | --- | --- | --- |
-| None | — | — | — | Intraday choppy, no engulfing/morning star patterns |
+### Daily Patterns (D, latest)
+| Latest Valid Pattern | Occurrence Time | Freshness | Direction | Notes |
+| -------------------- | --------------- | --------- | --------- | ----- |
+| None                 | —               | —         | —         | No typical pattern formed (neutral structure) |
 
-### 4H Pattern (H4, latest)
-| Latest Valid Pattern | Date | Freshness | Direction | Note |
-| None | — | — | — | Structure: last 5 candles = 3 bullish / 2 bearish; broke prior high; held prior low; avg real body ≈29.3%; relative to KC: above midline |
-
-> Criteria: Engulfing, Morning/Evening Star, Pin Bar, Inside/Outside Bar, M/W tops/bottoms; evidence based on D/H4 last_closed proximate structure.
+### 4H Patterns (H4, latest)
+| Latest Valid Pattern | Occurrence Time | Freshness | Direction | Notes |
+| :------------------- | :-------------- | :-------- | :-------- | :----- |
+| None                  | —               | —         | —         | Structure: Last 5 candles = 3 bullish, 2 bearish; no break of prior high/low; avg body ≈ 32.5%; KC relative: above midline |
 
 ---
 
 ## Key Level Analysis
 
-### Support (S)
+### Support Levels (S)
 
-| # | Price (USDT) | Source/Criteria | Usage | Historical Validity (Touches/Confirmations) | Credibility | Current Distance |
-| -- | -- | -- | -- | -- | -- | -- |
-| S1 | 3745.40 | 4H KC lower band (last_closed) | Channel support | Tested multiple times in last 10 bars | Medium | 3.70% |
-| S2 | 3592.62 | Daily KC lower band (last_closed) | Range floor | Valid past 20 bars | Medium | 7.63% |
-| S3 | 3179.78 | Daily 200-day MA | Long-term support | Long-term valid | High | 18.26% |
+| #  | Price (USDT) | Source/Definition            | Use Case      | Historical Validity (Touches/Confirmation) | Reliability | Current Distance |
+| -- | ------------ | ---------------------------- | ------------- | ------------------------------------------ | ----------- | ---------------- |
+| S1 | 3819.070     | Recent daily swing low (10-18)| Support       | 2 recent touches (10-17/10-18)              | Medium      | 1.80%            |
+| S2 | 3592.620     | Daily KC lower band (10-18)  | Channel Support| Multiple valid in past week (returns within band)| Medium  | 7.63%            |
+| S3 | 3179.780     | 200-day MA (10-18)           | Trend Divider | Long-term valid (bull/bear divider)         | High        | 18.25%           |
 
-### Resistance (R)
+### Resistance Levels (R)
 
-| # | Price (USDT) | Source/Criteria | Usage | Historical Validity (Touches/Confirmations) | Credibility | Current Distance |
-| -- | -- | -- | -- | -- | -- | -- |
-| R1 | 3903.88 | 4H KC midline (last_closed) | Near-term resistance | Valid past 10 bars | Medium | 0.37% |
-| R2 | 4131.17 | Daily KC midline (last_closed) | Range mid-point | Valid past 20 bars | Medium | 6.22% |
-| R3 | 4221.40 | Daily 20-day MA | Momentum resistance | Medium-term valid | Medium | 8.57% |
+| #  | Price (USDT) | Source/Definition            | Use Case      | Historical Validity (Touches/Confirmation) | Reliability | Current Distance |
+| -- | ------------ | ---------------------------- | ------------- | ------------------------------------------- | ----------- | ---------------- |
+| R1 | 4131.170     | Daily KC midline (10-18)     | Channel Resistance| Multiple closes below recently          | Medium      | 6.22%            |
+| R2 | 4221.400     | 20-day MA (10-18)            | Trend Resistance| Multiple failures to break in past 2 weeks| Medium      | 8.54%            |
+| R3 | 4301.150     | 50-day MA (10-18)            | Trend Resistance| Unbroken in past 2 weeks                   | Medium      | 10.59%           |
 
-**Reminder (Not Advice)**: Watch for breakout above R1 or breakdown below S1 to identify short-term regime shifts.
+**Reminder (Non-Advice)**: Watch for R1 breakout and S1 breakdown signals.
 
 ---
 
-## Forward Scenarios
+## Future Scenario Analysis
 
-**Scenario ①: Continuation to the Upside**  
-If technicals and funds marginally improve, price tends to revert toward daily midpoint.
+**Scenario ①: Continued Upside**  
+If daily closes above R1 (KC midline) with MACD histogram contracting and 4H OBV above its 9-period MA, price likely repairs up toward MA cluster.
 
-| Factor | Content |
-| --- | --- |
-| Probability | 35% |
-| Expected Window | 3–5 days |
-| Trigger (Technical) | If: daily close > R1 (3903.88) and 4H OBV above EMA9 and holds; MACD histogram contracts to positive (D) |
-| Trigger (Macro) | If: SLP7d > +$1B or DXY falls below key MA |
-| Target/Range | 4130–4220 (Daily KC midline to 20-day MA) |
-| Invalidation | 4H close < 4H MA20 or daily drops below 3820 with worsening volume-price divergence |
+| Element       | Content                                                       |
+| ------------- | -------------------------------------------------------------- |
+| Probability   | 35%                                                            |
+| Expected Window| 3–5 days                                                       |
+| Technical Trigger | IF: Daily Close > 4131 (KC midline) AND 4H OBV > EMA9 AND 4H Close > 4H MA20 |
+| Macro Trigger | IF: SLP7d > +$1B or DXY drops <120; or MWI > +3 and transmission score > 0 |
+| Target/Range  | 4220–4300 (20/50-day MA zone)                                  |
+| Invalidation  | Daily Close < S1(3819) or 4H Close < 4H MA20 and OBV<EMA9      |
 
-**Scenario ②: Range-bound Consolidation**  
-Holding below daily midpoint, waiting for direction confirmation.
+**Scenario ②: Range Consolidation**  
+Oscillating between S1 and R1, trend strength lacking (ADX<25), neutral range.
 
-| Factor | Content |
-| --- | --- |
-| Probability | 45% |
-| Expected Window | 1–2 weeks |
-| Trigger (Technical) | If: S1 (3745) < daily close < R2 (4131) and ADX(14) < 25 |
-| Trigger (Macro) | No strong macro triggers (MWI weak negative, transmission unchanged) |
-| Target/Range | 3745–4131 (4H KC lower band to daily KC midline) |
-| Invalidation | Break above R2 with volume expansion or break below S1 with sustained -DI dominance |
+| Element       | Content                                         |
+| ------------- | ----------------------------------------------- |
+| Probability   | 40%                                             |
+| Expected Window| 1–2 weeks                                      |
+| Technical Trigger | IF: S1 < Daily Close < R1 AND ADX(14) < 25 |
+| Macro Trigger | No strong macro trigger                         |
+| Target/Range  | 3819–4131                                        |
+| Invalidation  | Break above R1 or below S1, or ADX>25 and +DI/-DI diff > 10 |
 
-**Scenario ③: Weakening Pullback**  
-If technical recovery fails and funds weaken again, price may test lower supports.
+**Scenario ③: Turn Weak & Pullback**  
+If 4H loses MA50 with MACD histogram continuously contracting below zero, possible test of lower support and KC lower band.
 
-| Factor | Content |
-| --- | --- |
-| Probability | 20% |
-| Expected Window | 2–3 days |
-| Trigger (Technical) | If: 4H close < 4H MA50 (≈3957.83) and MACD histogram remains negative (H4); daily -DI and ADX rise together |
-| Trigger (Macro) | If: SLP weakens or DXY strengthens further |
-| Target/Range | 3590–3745 (Daily/4H lower band zone) |
-| Invalidation | 4H close > 4H MA20 and OBV>EMA9 sustained ｜ daily holds R2 (4131)
+| Element       | Content                                                            |
+| ------------- | ------------------------------------------------------------------ |
+| Probability   | 25%                                                                |
+| Expected Window| 2–3 days                                                           |
+| Technical Trigger | IF: 4H Close < 4H MA50(3961) and MACD hist<0 contracting continuously |
+| Macro Trigger | IF: SLP7d weakens or DXY keeps strengthening                        |
+| Target/Range  | 3700–3600 (near KC lower band)                                      |
+| Invalidation  | 4H Close > 4H MA20 and OBV>EMA9 ｜ Daily hold above R1              |
 
 ---
 
 ## Risk Warnings
 
-1. In weak trend phases, false breakout risk is high—confirm with volume and capital flow.  
-2. Macro-technical divergence: marginal stablecoin inflow not effectively translating into spot net buying.
+1. In weak trend phases, false breakout risk is high—wait for key level close confirmation.
+2. Disagreement between macro and technicals (NL7 mean diverges from spot) — short-term signals indecisive.
 
 ---
 
-## Monitoring Checklist (For Next Day/Session Review)
+## Watchlist (For Next Day/Next Session Review)
 
-- **Volatility**: Whether H4 nATR stays in 1–3% healthy range (current: 2.22% → ⚪ Healthy).  
-- **Momentum**: Whether daily RSI(14) exits 40–60 neutral (current: 41.50 → ⚪ Neutral-weak); MACD zero/histogram (current: below zero/contracting → 🔴 Bearish bias).  
-- **Volume**: H4 OBV vs EMA9 (above), check if price-volume aligned.  
-- **MA Structure**: Daily ΔMA20/50/200 expanding/contracting (-7.87%/-9.58%/+22.31%).  
-- **Key Levels**: Watch if S1/R1 triggers and invalidation conditions met.
+- **Volatility**: H4 nATR stay in 1–3% healthy range? (Current: 2.22% → ⚪ Healthy)  
+- **Momentum**: Daily RSI(14) leave 40–60 neutral? (Current: 41.50 → ⚪ Neutral); MACD zero/hist (Current: below zero / expanding → 🔴 Bearish)  
+- **Volume**: H4 OBV vs EMA9 relationship (above), check price-volume alignment  
+- **MA Structure**: Daily ΔMA20/50/200 expansion/contraction (-7.87%/-9.58%/+22.31%)  
+- **Key Levels**: Watch if S1/R1 trigger/invalidation conditions are met
 
 ---
 
-## Comparison with Yesterday: Change Attribution
+## Compared to Yesterday: Change Attribution
 
-**Overall Changes**
+**Composite Change**
 
-* Composite Score: — → -14 (Δ —)  
-* Regime Tag: — → Sideways (unchanged)  
-* Confidence: —% → 60% (Δ —)  
-* Core Driver: Weak macro transmission & un-recovered daily momentum.
+* Composite Score: — → -16 (Δ —)
+* Status Tag: — → Range-bound (first gen)
+* Confidence: —% → 72% (Δ —)
+* Key Drivers: Momentum weakened, 4H rebound failed MA convergence; macro spot drain + weak stablecoin inflow coexist.
 
 **Dimension Score Changes & Attribution**
 
-| Dimension | Yesterday | Today | Change | Main Driver (Key Indicator Changes) |
-| --- | --- | --- | --- | --- |
-| Macro Liquidity | — | -3 | — | MWI=-2.7, NL7=-44.32B |
-| Transmission Efficiency | — | -5 | — | SMR ample but CUE negative, SLP weekly insufficient |
-| Structural Patterns | — | -2 | — | Daily below 20/50-day MA |
-| MA System | — | +4 | — | Weekly bullish intact, daily above 200-day MA |
-| Momentum Indicators | — | -5 | — | Daily MACD below zero, RSI near lower neutral |
-| Capital Flow | — | -1 | — | Low volume ratio, OBV<EMA9 but CMF>0 |
-| Trend Strength | — | -2 | — | ADX in transition zone, -DI dominant |
-| Volatility Position | — | +1 | — | 4H nATR in healthy band |
-| Multi-Timeframe Confluence | — | -2 | — | Weekly bullish, daily weak, 4H below 200MA |
+| Dimension     | Yesterday | Today  | Change | Key Drivers (Indicator Changes) |
+| ------------- | --------- | ------ | ------ | -------------------------------- |
+| Macro Liquidity | —       | -2     | —      | MWI=-1.8 (tight)                 |
+| Transmission Efficiency | — | +3   | —      | SMR>8%, CUE efficient, NL7 spot negative vs SLP positive |
+| Structure Form | —        | -3     | —      | Closed below KC midline, no classic reversal pattern |
+| MA System     | —         | -2     | —      | MA20 slope turned negative, MA20<MA50 |
+| Momentum      | —         | -8     | —      | MACD below zero expanding, RSI(14) lower neutral |
+| Capital Flow  | —         | 0      | —      | CMF>0 but weakening, OBV below EMA9 |
+| Trend Strength| —         | -3     | —      | ADX<25, -DI>+DI                  |
+| Volatility    | —         | +1     | —      | H4 nATR healthy, KC midline above |
+| Multi-Timeframe Sync | —  | -2     | —      | Daily weak, 4H rebound below key MAs |
 
-**Top Change Indicators (≤10)**
+**Top Changing Indicators (≤10 Items)**
 
-1. MACD (Daily): Histogram -47.13 → -44.08 (contracting) ｜ Conclusion: Momentum weak but decline slowing.  
-2. RSI(14): 42.93 → 41.50 ｜ Conclusion: Still in lower neutral, not in strong zone.  
-3. Volume Ratio (Daily): 1.28 → 0.41 ｜ Conclusion: Price up without volume, weak follow-through.  
-4. CMF(21): 0.13 → 0.11 ｜ Conclusion: Net inflow but slightly lower.  
-5. H4 OBV vs EMA9: Below → Above ｜ Conclusion: Short-term capital marginally improved.  
-6. H4 nATR: 2.76% → 2.22% ｜ Conclusion: Returned to healthy band.
+1. MACD hist: -47.13 → -44.08 (close change)｜Conclusion: Below zero expanding, bearish.  
+2. ADX(14): 22.13 → 22.70｜Conclusion: Still below trend threshold.  
+3. RSI(14): 39.59 → 41.50｜Conclusion: Slight recovery in neutral band, still weak.  
+4. CMF(21): 0.1305 → 0.1070｜Conclusion: Inflow weakened but still >0.  
+5. H4 OBV vs EMA9: Below → Above｜Conclusion: Short-term inflow signs.  
+6. H4 nATR: ≈2.22% (unchanged)｜Conclusion: Volatility healthy.
 
 **Pattern & Key Level Changes**
 
-* Pattern: No classic pattern identified recently (neutral maintained).  
-* Key Levels: Frequent testing/rebound around R1/S1—volume confirmation needed.
+* Patterns: No classic pattern detected (unchanged).
+* Key Levels: R1 (KC midline) and S1 (near-term low) still primary watch; neither broken yet.
 
-**Macro Transmission Efficiency Changes**
+**Macro Transmission Efficiency Change**
 
-* Yesterday: —; Today: MWI -2.7, SLP past 3 days +0.16B, market score -14 → Weak transmission.  
-* Impact: Confidence unchanged (0%).
+* Yesterday: —  
+* Today: MWI -1.8, SLP ≈+$0.7B, composite score -16 → mild positive transmission but spot drain dragging short-term.  
+* Impact: Confidence +5% (macro aligns with total score but weakly).
 
 ---
 
 ## Report Notes
 
-This report is produced by HyperManifold based on multi-timeframe technical analysis and macro liquidity assessment, **for reference only and not investment advice**.  
-Analysis Time: 2025-10-19T07:05:34.006000+00:00 ｜ Data Sources: binance & ByBit ｜ Timeframes: Weekly / Daily / 4H
+This report is produced by HyperManifold based on multi-timeframe technicals and macro liquidity assessment, **FOR REFERENCE ONLY, NOT INVESTMENT ADVICE**.  
+Analysis Time: 2025-10-19T14:51:03.673000+00:00 ｜ Data Source: binance & ByBit ｜ Periods: Weekly / Daily / 4H
 
 ---
