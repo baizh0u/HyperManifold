@@ -31,13 +31,6 @@ reports/
 │       └── ETHUSDT.md
 └── ...
 ```
-
-**Examples (use your repo’s relative paths)**
-
-- CN · Overview (sample): `reports/2025-10-19/CN/market_overview.md`
-- CN · BTC (sample): `reports/2025-10-19/CN/BTCUSDT.md`
-- EN · Overview (sample): `reports/2025-10-19/EN/market_overview.md`
-
 > Note: Type 1 **Comprehensive Overview** (macro + crypto-macro + majors at a glance) is updated **daily for free**. Type 2 **Single-Asset Deep-Dive** is currently **free for BTC/ETH**.
 
 ------
