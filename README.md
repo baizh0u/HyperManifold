@@ -3,7 +3,7 @@
 > Connecting TradFi ↔ Crypto, every single day — with data, logic, and a dash of fun.
 >  Decentralized research · Open discussion · A public knowledge base for everyone
 
-[![docs zh](https://img.shields.io/badge/docs%20zh-README-blue)](./README_zh.md) [![license](https://img.shields.io/badge/license-CC BY NC ND 4.0-red)](./LICENSE)
+[![docs zh](https://img.shields.io/badge/docs%20zh-README-blue)](./README_zh.md) [![license](https://img.shields.io/badge/license-CC BY NC ND 4.0-red)](./LICENSE)
 
 ------
 
