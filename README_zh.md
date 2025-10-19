@@ -2,17 +2,14 @@
 > Connecting TradFi ↔ Crypto, every single day – with data, logic, and a dash of fun.
 > 去中心化的研究精神 · 开放的讨论氛围 · 面向全球的公开知识库
 
-[![doc](https://img.shields.io/badge/docs%20en-README-blue)](./README.md)      [![license](https://img.shields.io/badge/license-CC BY NC ND 4.0-red)](./LICENSE)
+[![doc](https://img.shields.io/badge/docs%20en-README-blue)](./README.md)      [![license](https://img.shields.io/badge/license-CC_BY_NC_ND_4.0-red)](./LICENSE)
 ---
 
 ## 🔗 最新报告
 <!-- LATEST_START -->
-
-- 2025-10-19：CN → [市场总览](reports/2025-10-19/CN/market_overview.md) · [BTC](reports/2025-10-19/CN/BTCUSDT.md) · [ETH](reports/2025-10-19/CN/ETHUSDT.md)
-
-- 2025-10-19：EN → [Market Overview](reports/2025-10-19/EN/market_overview.md) · [BTC](reports/2025-10-19/EN/BTCUSDT.md)
-
-  <!-- LATEST_END -->
+- 2025-10-19 · CN → [市场总览](./reports/20251019/CN/market_overview_20251019_CN.md) · [BTC](./reports/20251019/CN/BTCUSDT_20251019_CN.md) · [ETH](./reports/20251019/CN/ETHUSDT_20251019_CN.md) 
+- 2025-10-19 · EN → [Market Overview](./reports/20251019/EN/market_overview_20251019_EN.md) · [BTC](./reports/20251019/EN/BTCUSDT_20251019_EN.md)· [ETH](./reports/20251019/EN/ETHUSDT_20251019_EN.md) 
+<!-- LATEST_END -->
 
 ## 📂 0. 报告目录与快速链接
 
@@ -31,13 +28,6 @@ reports/
 │       └── ETHUSDT.md
 └── ...
 ```
-
-**示例（可直接替换为你的仓库相对路径）**
-
-* CN · 市场总览（示例）：`reports/2025-10-19/CN/market_overview.md`
-* CN · BTC 报告（示例）：`reports/2025-10-19/CN/BTCUSDT.md`
-* EN · Market Overview（示例）：`reports/2025-10-19/EN/market_overview.md`
-
 > 说明：第 1 类《综合性研究报告》（宏观+加密宏观+主流币概况）每日免费更新；第 2 类《单币深度研究报告》目前 **BTC/ETH 免费**。
 
 ---

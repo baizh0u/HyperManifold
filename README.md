@@ -3,14 +3,14 @@
 > Connecting TradFi ↔ Crypto, every single day — with data, logic, and a dash of fun.
 >  Decentralized research · Open discussion · A public knowledge base for everyone
 
-[![docs zh](https://img.shields.io/badge/docs%20zh-README-blue)](./README_zh.md) [![license](https://img.shields.io/badge/license-CC BY NC ND 4.0-red)](./LICENSE)
+[![docs zh](https://img.shields.io/badge/docs%20zh-中文文档-blue)](./README_zh.md)  [![license](https://img.shields.io/badge/license-CC_BY_NC_ND_4.0-red)](./LICENSE)
 
 ------
 
 ## 🔗 Latest Reports
 
-- 2025-10-19 · CN → [市场总览 / Market Overview](https://chatgpt.com/g/g-p-68ee0f665a3481918796edef9eb36b31-jia-mi-huo-bi-liang-hua-fen-xi/c/reports/2025-10-19/CN/market_overview.md) · [BTC](https://chatgpt.com/g/g-p-68ee0f665a3481918796edef9eb36b31-jia-mi-huo-bi-liang-hua-fen-xi/c/reports/2025-10-19/CN/BTCUSDT.md) · [ETH](https://chatgpt.com/g/g-p-68ee0f665a3481918796edef9eb36b31-jia-mi-huo-bi-liang-hua-fen-xi/c/reports/2025-10-19/CN/ETHUSDT.md)
-- 2025-10-19 · EN → [Market Overview](https://chatgpt.com/g/g-p-68ee0f665a3481918796edef9eb36b31-jia-mi-huo-bi-liang-hua-fen-xi/c/reports/2025-10-19/EN/market_overview.md) · [BTC](https://chatgpt.com/g/g-p-68ee0f665a3481918796edef9eb36b31-jia-mi-huo-bi-liang-hua-fen-xi/c/reports/2025-10-19/EN/BTCUSDT.md)
+- 2025-10-19 · CN → [市场总览](./reports/20251019/CN/market_overview_20251019_CN.md) · [BTC](./reports/20251019/CN/BTCUSDT_20251019_CN.md) · [ETH](./reports/20251019/CN/ETHUSDT_20251019_CN.md) 
+- 2025-10-19 · EN → [Market Overview](./reports/20251019/EN/market_overview_20251019_EN.md) · [BTC](./reports/20251019/EN/BTCUSDT_20251019_EN.md)· [ETH](./reports/20251019/EN/ETHUSDT_20251019_EN.md) 
 
 ------
 
@@ -31,13 +31,6 @@ reports/
 │       └── ETHUSDT.md
 └── ...
 ```
-
-**Examples (use your repo’s relative paths)**
-
-- CN · Overview (sample): `reports/2025-10-19/CN/market_overview.md`
-- CN · BTC (sample): `reports/2025-10-19/CN/BTCUSDT.md`
-- EN · Overview (sample): `reports/2025-10-19/EN/market_overview.md`
-
 > Note: Type 1 **Comprehensive Overview** (macro + crypto-macro + majors at a glance) is updated **daily for free**. Type 2 **Single-Asset Deep-Dive** is currently **free for BTC/ETH**.
 
 ------
