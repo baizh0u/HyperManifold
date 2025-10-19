@@ -9,8 +9,8 @@
 
 ## 🔗 Latest Reports
 
-- 2025-10-19 · CN → [市场总览 / Market Overview](https://chatgpt.com/g/g-p-68ee0f665a3481918796edef9eb36b31-jia-mi-huo-bi-liang-hua-fen-xi/c/reports/2025-10-19/CN/market_overview.md) · [BTC](https://chatgpt.com/g/g-p-68ee0f665a3481918796edef9eb36b31-jia-mi-huo-bi-liang-hua-fen-xi/c/reports/2025-10-19/CN/BTCUSDT.md) · [ETH](https://chatgpt.com/g/g-p-68ee0f665a3481918796edef9eb36b31-jia-mi-huo-bi-liang-hua-fen-xi/c/reports/2025-10-19/CN/ETHUSDT.md)
-- 2025-10-19 · EN → [Market Overview](https://chatgpt.com/g/g-p-68ee0f665a3481918796edef9eb36b31-jia-mi-huo-bi-liang-hua-fen-xi/c/reports/2025-10-19/EN/market_overview.md) · [BTC](https://chatgpt.com/g/g-p-68ee0f665a3481918796edef9eb36b31-jia-mi-huo-bi-liang-hua-fen-xi/c/reports/2025-10-19/EN/BTCUSDT.md)
+- 2025-10-19 · CN → [市场总览](./reports/2025-10-19/CN/market_overview.md) · [BTC](./reports/2025-10-19/CN/BTCUSDT.md) · [ETH](./reports/2025-10-19/CN/ETHUSDT.md)
+- 2025-10-19 · EN → [Market Overview](./reports/2025-10-19/EN/market_overview.md) · [BTC](./reports/2025-10-19/EN/BTCUSDT.md)
 
 ------
 
