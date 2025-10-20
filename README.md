@@ -8,8 +8,7 @@
 ------
 
 ## 🔗 Latest Reports
-
-- 2025-10-19 · CN → [市场总览](./reports/20251019/CN/market_overview_20251019_CN.md) · [BTC](./reports/20251019/CN/BTCUSDT_20251019_CN.md) · [ETH](./reports/20251019/CN/ETHUSDT_20251019_CN.md) 
+- 2025-10-20 · EN → [Market Overview](./reports/20251020/EN/market_overview_EN.md) · [BTC](./reports/20251020/EN/BTCUSDT_EN.md) · [ETH](./reports/20251020/EN/ETHUSDT_EN.md)
 - 2025-10-19 · EN → [Market Overview](./reports/20251019/EN/market_overview_20251019_EN.md) · [BTC](./reports/20251019/EN/BTCUSDT_20251019_EN.md)· [ETH](./reports/20251019/EN/ETHUSDT_20251019_EN.md) 
 
 ------
