@@ -11,8 +11,6 @@
 - 2025-10-24 · CN → [市场总览](./reports/20251024/CN/market_overview_CN.md) · [BTC](./reports/20251024/CN/BTCUSDT_CN.md) · [ETH](./reports/20251024/CN/ETHUSDT_CN.md)
 - 2025-10-23 · CN → [市场总览](./reports/20251023/CN/market_overview_CN.md) · [BTC](./reports/20251023/CN/BTCUSDT_CN.md) · [ETH](./reports/20251023/CN/ETHUSDT_CN.md)
 - 2025-10-22 · CN → [市场总览](./reports/20251022/CN/market_overview_CN.md) · [BTC](./reports/20251022/CN/BTCUSDT_CN.md) · [ETH](./reports/20251022/CN/ETHUSDT_CN.md)
-- 2025-10-22 · CN → [市场总览](./reports/20251022/CN/market_overview_CN.md) · [BTC](./reports/20251022/CN/BTCUSDT_CN.md) · [ETH](./reports/20251022/CN/ETHUSDT_CN.md)
-- 2025-10-22 · CN → [市场总览](./reports/20251022/CN/market_overview_CN.md) · [BTC](./reports/20251022/CN/BTCUSDT_CN.md) · [ETH](./reports/20251022/CN/ETHUSDT_CN.md)
 - 2025-10-21 · CN → [市场总览](./reports/20251021/CN/market_overview_CN.md) · [BTC](./reports/20251021/CN/BTCUSDT_CN.md) · [ETH](./reports/20251021/CN/ETHUSDT_CN.md)
 - 2025-10-20 · CN → [市场总览](./reports/20251020/CN/market_overview_CN.md) · [BTC](./reports/20251020/CN/BTCUSDT_CN.md) · [ETH](./reports/20251020/CN/ETHUSDT_CN.md)
 - 2025-10-19 · CN → [市场总览](./reports/20251019/CN/market_overview_20251019_CN.md) · [BTC](./reports/20251019/CN/BTCUSDT_20251019_CN.md) · [ETH](./reports/20251019/CN/ETHUSDT_20251019_CN.md) 
